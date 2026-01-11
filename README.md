@@ -56,3 +56,15 @@ In `pdf2jpeg.c`:
 - `kDpi` controls rendering DPI
 - `kJpegQuality` controls JPEG quality (1–100)
 
+## License
+
+This project uses **MuPDF**, which is licensed under the **GNU Affero General Public License v3 (AGPLv3)**.
+
+Accordingly, this project is distributed under the terms of the **GNU AGPLv3**.
+
+MuPDF is Copyright © Artifex Software, Inc.
+MuPDF is licensed under the GNU AGPLv3 or a commercial license.
+For more information, see: https://mupdf.com/
+
+The full license text can be found in the LICENSE file.
+
